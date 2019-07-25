@@ -1,5 +1,8 @@
 Development:
 
+1) run $yarn install
+
+2) using docker run 1 of the following: 
 - Add to docker-compose.yml
     react-dev:
         build:
